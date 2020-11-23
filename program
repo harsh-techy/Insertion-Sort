@@ -11,7 +11,7 @@ int main()
   int a[10],n,temp=0,key,j;
   printf("\n============================================================\n");
     printf("                     INSERTION SORTING                      ");
-  printf("\nNAME : TANVEER AHMED ANSARI\nROLL NO. : 1901610100218\n");
+  printf("\nNAME : HARSH CHOUDHARY\nROLL NO. : 1901610100074\n");
   printf("\nEnter Array size :");
   scanf("%d",&n);
   printf(" Enter Array Elements:\n");
